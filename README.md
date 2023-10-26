@@ -9,4 +9,4 @@
 6. **pytrade2.strategy** python package contains all the strategies implemented. 
 7. Run **jupyter notebook** command and open **analytics/PredictBidAskStrategyEDA.ipynb** to explore the bot's trades. Edit **strategy** variable in the notebook to explore another strategy.
 
-
+thank you 
